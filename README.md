@@ -9,7 +9,7 @@
 <img align="center" alt="Pezao-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
 <img align="center" alt="Pezao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="Pezao-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg">
-<img align="center" alt="David-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+<img align="center" alt="Pezao-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 </div>
 <br>
 <div align="center" id="social">
@@ -18,7 +18,7 @@
 
 <div align="center">
 <h1>HELLO, WORLD!</h1>
-<h4>Welcome to my Github page. <br>Here I proudly display my portfolio, in which you can follow my progress with me in my Web Development carreer. I am trying to change careers and move to the development area, an area that has caught my attention and provided me with incredible challenges. <br><br> I have learned a little bit of HTML and CSS, learning JavaScript to add to my personal projects (some of them displayed on my GitHub profile). DIO, FIAP and Udemy have been a big part of my learning process, such as Curso em Video courses, with Gustavo Guanabara. 
+<h4>Welcome to my Github profile. <br>Here I proudly display my portfolio, in which you can follow my progress with me in my Web Development career. I am trying to change careers and move to the development area, an area that has caught my attention and provided me with incredible challenges. <br><br> I have learned a little bit of HTML and CSS, learning JavaScript to add to my personal projects (some of them displayed here). DIO, FIAP and Udemy have been a big part of my learning process, such as Curso em Video courses, with Gustavo Guanabara. 
 <br><br>
 I look forward to opportunities to work in this area, hungry to learn more and more.</h4>
 </div>
